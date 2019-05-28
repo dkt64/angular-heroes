@@ -47,3 +47,9 @@
         margin-right: .8em;
         border-radius: 4px 0 0 4px;
       }
+      h1 {
+        text-align:center;
+      }
+      h2 {
+        text-align:left;
+      }
